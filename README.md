@@ -1,2 +1,0 @@
-# mavoTailwind
-Created with CodeSandbox
