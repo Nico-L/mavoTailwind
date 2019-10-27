@@ -1,3 +1,4 @@
 dist
 .codesandbox
 node_modules
+.cache
